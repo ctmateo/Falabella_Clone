@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Falabella_Clone/static/css/main.b631dbb1.css",
+    "main.js": "/Falabella_Clone/static/js/main.1a8fa1e0.js",
+    "static/js/787.1abe3ab2.chunk.js": "/Falabella_Clone/static/js/787.1abe3ab2.chunk.js",
+    "static/media/Silka Medium.otf": "/Falabella_Clone/static/media/Silka Medium.55bc344cd3d3a0ee2a79.otf",
+    "static/media/Silka Regular.otf": "/Falabella_Clone/static/media/Silka Regular.1c6cd3c021c0d446346b.otf",
+    "static/media/slick.svg": "/Falabella_Clone/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Falabella_Clone/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Falabella_Clone/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Falabella_Clone/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Falabella_Clone/index.html",
+    "static/media/arrowleft.svg": "/Falabella_Clone/static/media/arrowleft.fb3cfc28931fcc39e052011cf01ed4fd.svg",
+    "static/media/arrowright.svg": "/Falabella_Clone/static/media/arrowright.605a3c8733557aafb5a2a65ae300d842.svg",
+    "main.b631dbb1.css.map": "/Falabella_Clone/static/css/main.b631dbb1.css.map",
+    "main.1a8fa1e0.js.map": "/Falabella_Clone/static/js/main.1a8fa1e0.js.map",
+    "787.1abe3ab2.chunk.js.map": "/Falabella_Clone/static/js/787.1abe3ab2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b631dbb1.css",
+    "static/js/main.1a8fa1e0.js"
+  ]
+}
