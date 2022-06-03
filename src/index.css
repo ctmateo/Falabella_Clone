@@ -1,0 +1,29 @@
+body{
+  margin: 0;
+  background-color: #ebebeb !important;
+  overflow-x: hidden;
+}
+*{
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'silka regular';
+  src: url(./fonts/Silka\ Regular.otf);
+}
+
+@font-face {
+  font-family: 'silka medium';
+  src: url(./fonts/Silka\ Medium.otf);
+}
+
+
+
+a{
+  text-decoration: none;
+  font-family: silka regular;
+}
+
+span{
+  font-family: silka regular;
+}
