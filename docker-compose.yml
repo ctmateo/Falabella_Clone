@@ -5,4 +5,7 @@ services:
     container_name: falabella
     ports:
       - "3000:3000"
+  command: 
+    - "npm install && npm start"
+    
 
