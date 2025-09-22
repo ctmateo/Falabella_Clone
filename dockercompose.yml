@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  reactapp:
+    build: .
+    container_name: falabella
+    ports:
+      - "3000:3000"
+
