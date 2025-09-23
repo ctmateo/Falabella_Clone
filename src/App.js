@@ -8,10 +8,10 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Routes>
-          <Route exact path="/Falabella_Clone" element={<Header />}/>
+          <Route exact path="/" element={<Header />}/>
         </Routes>
         <Routes>
-          <Route path='/Falabella_Clone' element={<Home />} />
+          <Route path='/' element={<Home />} />
         </Routes>
       </BrowserRouter>
 
